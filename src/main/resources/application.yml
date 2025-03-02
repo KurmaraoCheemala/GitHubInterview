@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: 02_REPORTS_API
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+      
+    show-sql: true
+
+
+
+  datasource:
+    username: kurma
+    password: kurma@123
+    url: jdbc:mysql://localhost:3306/sbms
+    driver-class-name: com.mysql.jdbc.Driver
+  
