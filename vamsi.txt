@@ -7,4 +7,8 @@ hi this  is Vamsi
 
 // this is work on shadowing 
 
+<<<<<<< Updated upstream
 // bug 122
+=======
+// bug 121
+>>>>>>> Stashed changes
