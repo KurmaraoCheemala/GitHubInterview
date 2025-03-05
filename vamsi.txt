@@ -1,9 +1,9 @@
 hi this  is Vamsi
 
 
-<<<<<<< Updated upstream
+
 
 // hello hyderbad 
-=======
-// this is work on shaddowing
->>>>>>> Stashed changes
+
+// this is work on shadowing 
+
